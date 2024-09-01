@@ -16,4 +16,4 @@ ResNet（Residual Network）是一種深度神經網路架構。當網路變得�
 
 # 實際排名
 
-<img src="AOI  瑕疵分類.png">
+<img src="AOI 瑕疵分類_結果.png">
