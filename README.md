@@ -1,6 +1,6 @@
 # Automated-Optical-Inspection
 
-Automated Optical Inspection (AOI) Automated Optical Inspection (AOI) is a method that uses optical imaging technology to automatically inspect the appearance of products or the manufacturing quality of circuit boards. Specialized software analyzes features in the images, such as defects, short circuits, misalignment, or missing components. This technology is widely used in the electronics manufacturing industry to ensure that products meet quality standards, reduce human inspection errors, and improve production efficiency.
+Automated Optical Inspection (AOI) is a method that uses optical imaging technology to automatically inspect the appearance of products or the manufacturing quality of circuit boards. Specialized software analyzes features in the images, such as defects, short circuits, misalignment, or missing components. This technology is widely used in the electronics manufacturing industry to ensure that products meet quality standards, reduce human inspection errors, and improve production efficiency.
 
 <img src="AOI.jpg">
 
