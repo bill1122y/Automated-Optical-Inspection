@@ -8,3 +8,12 @@ ResNet（Residual Network）是一種深度神經網路架構。當網路變得�
 <img src="ResNet_structure.jpg">
 
 來源: https://arxiv.org/pdf/1512.03385.pdf
+# 結果
+
+<img src="AOI 瑕疵分類_結果.png.jpg">
+
+訓練20次accuracy為0.9700，val_accuracy為0.9919，而測試結果accuracy達到0.9839704，
+
+# 實際排名
+
+<img src="AOI 瑕疵分類.png.jpg">
