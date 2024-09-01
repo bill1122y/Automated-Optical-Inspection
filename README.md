@@ -4,5 +4,7 @@
 # ResNet
 ResNet（Residual Network）是一種深度神經網路架構。當網路變得很深時，學習效果可能反而會變差。為了解決這個問題，ResNet引入了殘差塊（Residual Block）的概念，讓網路學習層與層之間的殘差，而不是直接學習輸入到輸出的映射。這樣訊息可以直接跳過一些層，讓網路更容易學習到有效的特徵，避免因為層數過多而影響效果。
 概念如下圖:
+
 <img src="ResNet_structure.jpg">
+
 來源: https://arxiv.org/pdf/1512.03385.pdf
