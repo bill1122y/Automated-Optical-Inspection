@@ -4,6 +4,8 @@ Automated Optical Inspection (AOI) Automated Optical Inspection (AOI) is a metho
 
 <img src="AOI.jpg">
 
+source: [https://arxiv.org/pdf/1512.03385.pdf](https://aidea-web.tw/topic/285ef3be-44eb-43dd-85cc-f0388bf85ea4)
+
 This program uses an image dataset from AIdea, which includes a large number of defect images. It classifies these images using a ResNet-based neural network.
 
 # ResNet
